@@ -22,7 +22,7 @@ It applies descriptive and analytical statistical methods to explore relationshi
 - Packages: `ggplot2`, `dplyr`, `stats`
 
 ## Author
-**Tea Minova (213004)**  
+**Tea Minova**  
 Faculty of Computer Science and Engineering — Ss. Cyril and Methodius University, Skopje
 
 ---
